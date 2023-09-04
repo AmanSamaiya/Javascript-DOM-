@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+
+div {
+  background-color: rgb(131, 40, 131);
+  padding: 40px 60px;
+  border-radius: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+div h1 {
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+}
+
+div button {
+  background-color: rgb(179, 59, 179);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  box-shadow: 0 0 10px black;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 10px 20px;
+}

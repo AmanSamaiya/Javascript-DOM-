@@ -1,0 +1,43 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+
+div {
+  height: 400px;
+  padding: 40px 60px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+div h1 {
+  color: rgb(0, 0, 0);
+}
+
+div button {
+  height: 40px;
+  width: 200px;
+  border: none;
+  border-radius: 10px;
+  background-color: rgb(36, 151, 136);
+  color: white;
+  font-weight: 700;
+  font-size: 17px;
+  margin: 10px;
+}
+
+ul li {
+  position: relative;
+  right: 20px;
+  color: black;
+  list-style: none;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+div p {
+  font-size: 18px;
+  font-weight: 700;
+}
